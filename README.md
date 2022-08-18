@@ -17,7 +17,8 @@ This project focuses on answering following questions:
 * Which genres are popular for movies?
 <br>
 <br>
-## Libraries:
+## Libraries
+<br>
 I am using python 3.6 in Jupyter Notebook.
 * Numpy
 * Pandas
