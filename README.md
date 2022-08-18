@@ -11,5 +11,6 @@ Libraries:
 * Pandas
 * Matplotlib
 * Seaborn
-execute: pip install -r requirements.txt<br>
+<br>
+execute: `pip install -r requirements.txt`<br>
 
