@@ -15,7 +15,7 @@ This project focuses on answering following questions:
 * What are the top 10 most reviewed movies on twitter?
 * Which twitter users are potential candidates to get hired from a movie reviewing company?
 * Which genres are popular for movies?
-<br>
+</br>
 <br>
 ## Libraries
 <br>
