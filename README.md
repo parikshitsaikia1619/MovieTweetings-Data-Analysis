@@ -12,5 +12,5 @@ Libraries:
 * Matplotlib
 * Seaborn
 <br>
-execute: `pip install -r requirements.txt`<br>
+execute: pip install -r requirements.txt<br>
 
