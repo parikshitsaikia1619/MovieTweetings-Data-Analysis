@@ -2,6 +2,7 @@
 DSND Capstone Project: Analyzing Movie Tweetings data using CRISP-DM
 <br>
 Article link: https://medium.com/@parikshitsaikia1619/analyzing-movie-trends-on-twitter-3214904a37c6
+
 <br>
 ## Project Motivation
 This project (Write a Data Science Blog Post) is a capstone project of Udacity Data Scientists Nanodegree Program.
